@@ -1,1 +1,2 @@
-# weather-app
+# WeatherApp
+This is weather app
